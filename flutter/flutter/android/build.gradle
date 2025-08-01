@@ -24,11 +24,11 @@ android {
         namespace 'com.arthenica.ffmpegkit.flutter'
     }
 
-    compileSdkVersion 33
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 24
-        targetSdkVersion 33
+        targetSdkVersion 36
         versionCode 603
         versionName "6.0.3"
     }
